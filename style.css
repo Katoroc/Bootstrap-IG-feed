@@ -1,0 +1,42 @@
+/* div{
+    display: flex;
+    justify-content: center;
+} */
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.btn{
+    float: right;
+}
+
+.tab-content{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+i{
+    color: grey;
+    
+}
+i:hover{
+    color: #28a745;
+}
+
+img{
+    width: 600px;
+    height: 300px;
+}
+
+
+
+.nav{
+     display: flex;
+    justify-content: center;
+
+}
